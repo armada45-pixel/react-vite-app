@@ -83,6 +83,18 @@ function App() {
       >
         Tech Here
       </div>
+
+      <div class="m-20">
+        <h1 class="text-7xl font-extrabold text-amber-300 drop-shadow-lg ">
+          Hello World
+        </h1>
+        <h1 class="text-7xl font-extrabold text-blue-600 drop-shadow-md shadow-blue-600/50">
+          KindaCode.com
+        </h1>
+        <h1 class="text-7xl font-bold text-white drop-shadow-lg shadow-black">
+          Tailwind Is Awesome
+        </h1>
+      </div>
     </>
   )
 }
